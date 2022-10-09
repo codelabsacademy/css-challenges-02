@@ -6,7 +6,7 @@ This is one of the coding challenges for the Fundamentals unit of the web develo
 
 ## Challenge description
 
-This repository contains a set of CSS-related tasks designed to go along with The CLA's HTML and CSS content. These tasks are mainly focused on [CSS Animations](./foundations/), [CSS Flex layout](./box-model/) and [CSS Grid layout](./box-model/).
+This repository contains a set of CSS-related tasks designed to go along with The CLA's HTML and CSS content. These tasks are mainly focused on [CSS Animations](./animation/), [CSS Flex layout](./flex/) and [CSS Grid layout](./grid/).
 
 - When doing these challenges, please use all the documentation and resources you need to accomplish them. You are _not_ intended to have any of this stuff memorized at this point. Check the docs, use Google, do what you need to do (besides checking the solutions) to get them done.
 
